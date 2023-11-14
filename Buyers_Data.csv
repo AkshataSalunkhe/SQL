@@ -1,0 +1,11 @@
+Buyer_ID,First_name,Last_name,Mob_num,BAddress,PaymentMethod
+1001,Akshata,Salunkhe,3055024285,"Pune, India ",EMI
+1002,Divya,Sakhare,6562056603,"Nanded, India ",
+1003,Rachana,Banakar,6567883900,"Karnataka,India ",Cash
+1004,Shivani ,Suryawanshi,7869845678,"Pune,India",Cash
+1005,Deepa,Biswas,6739493628,"Kolkata,India",
+1006,Onkar ,Salunkhe,2347892036,"Rhode Isaland,US",EMI
+1007,Ujwala ,Salunkhe,4927642829,"Pune, India ",
+1008,Divya ,Patil,2984843743,"Hydrabad,India ",  Cash
+1009,Sahana,Banakar,2946378202,"Banglore, India ",
+1010,Shreedevi,Olekar,2097285272,Hubali India , EMI 
